@@ -1,4 +1,4 @@
-# EEG/MEG Forward and Inverse (Multilayer Source Space) Problem Pipeline (FieldTrip-based Toolbox)
+# EEG/MEG Forward and Inverse (Multilayer Source Space) Problem Pipeline (Developed FieldTrip-based Toolbox)
 
 ## Computation and Visualisation of All Geometrical Objects in a Forward and Inverse Problem (All-in-One)
 ![](/ppt/EEG-MEG-MRI-Forward-Inverse-Problem-Toolbox-1-9.gif)
