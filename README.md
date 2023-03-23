@@ -31,5 +31,5 @@
 ![](/ppt/EEG-MEG-MRI-Forward-Inverse-Problem-Toolbox-9-InverseProblem.gif)
 
 # How to cite
-* F. Afdideh, “EEG/MEG Forward and Inverse (Multilayer Source Space) Problem Pipeline (FieldTrip-based Toolbox),” to be published.
+* F. Afdideh, “EEG/MEG Forward/Inverse (Single/Double/Multilayer Source Space) Problem Pipeline (Developed FieldTrip-based Toolbox),” to be published.
 
